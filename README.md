@@ -8,4 +8,4 @@ A paper reading list maintained by ICI-MT, contains all papers shared by our gro
 
 
 ## 2023/11/23
-- [Evaluating Large Language Models at Evaluating Instruction Following](https://arxiv.org/abs/2310.07641), ICLR 2024, [PPT](ppt/Evaluating Large Language Models at Evaluating Instruction Following.pdf)
+- [Evaluating Large Language Models at Evaluating Instruction Following](https://arxiv.org/abs/2310.07641), ICLR 2024, [PPT](ppt/Evaluating%20Large%20Language%20Models%20at%20Evaluating%20Instruction%20Following.pdf)
