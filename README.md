@@ -19,4 +19,4 @@ A paper reading list maintained by ICI-MT, contains all papers and PPTs (if avai
 
 
 ## 2023/12/07
-- [SALMONN: TOWARDS GENERIC HEARING ABILITIES FOR LARGE LANGUAGE MODELS]([https://arxiv.org/abs/2310.07641](https://openreview.net/forum?id=14rn7HpKVk)), [PPT](ppt/Evaluating%20Large%20Language%20Models%20at%20Evaluating%20Instruction%20Following.pdf)
+- [SALMONN: TOWARDS GENERIC HEARING ABILITIES FOR LARGE LANGUAGE MODELS]([https://arxiv.org/abs/2310.07641](https://openreview.net/forum?id=14rn7HpKVk)), [PPT]([ppt/Evaluating%20Large%20Language%20Models%20at%20Evaluating%20Instruction%20Following.pdf](https://github.com/ICI-MT/Reading-List/blob/main/ppt/SALMONN%20TOWARDS%20GENERIC%20HEARING%20ABILITIES%20FOR%20LARGE%20LANGUAGE%20MODELS%2023_12_07_%E9%99%88%E5%AE%89%E4%B8%9C.pdf)https://github.com/ICI-MT/Reading-List/blob/main/ppt/SALMONN%20TOWARDS%20GENERIC%20HEARING%20ABILITIES%20FOR%20LARGE%20LANGUAGE%20MODELS%2023_12_07_%E9%99%88%E5%AE%89%E4%B8%9C.pdf)
