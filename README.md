@@ -23,3 +23,4 @@ A paper reading list maintained by ICI-MT, contains all papers and PPTs (if avai
 
 ## 2023/12/21
 - [FUNCTION VECTORS IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.15213), arXiv Oct 23 2023, [PPT](https://github.com/ICI-MT/Reading-List/blob/main/ppt/Function%20Vectors%20in%20Large%20Language%20Models.pptx).
+- [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf), EMNLP 2023 Best Paper, [PPT](https://github.com/ICI-MT/Reading-List/blob/main/ppt/paper_reading_1221_by_meizhizhong.pdf).
