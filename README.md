@@ -21,6 +21,11 @@ A paper reading list maintained by ICI-MT, contains all papers and PPTs (if avai
 ## 2023/12/07
 - [SALMONN: TOWARDS GENERIC HEARING ABILITIES FOR LARGE LANGUAGE MODELS](https://openreview.net/forum?id=14rn7HpKVk), ICLR 2024 (8, 6, 6), [PPT]([ppt/Evaluating%20Large%20Language%20Models%20at%20Evaluating%20Instruction%20Following.pdf](https://github.com/ICI-MT/Reading-List/blob/main/ppt/SALMONN%20TOWARDS%20GENERIC%20HEARING%20ABILITIES%20FOR%20LARGE%20LANGUAGE%20MODELS%2023_12_07_%E9%99%88%E5%AE%89%E4%B8%9C.pdf)https://github.com/ICI-MT/Reading-List/blob/main/ppt/SALMONN%20TOWARDS%20GENERIC%20HEARING%20ABILITIES%20FOR%20LARGE%20LANGUAGE%20MODELS%2023_12_07_%E9%99%88%E5%AE%89%E4%B8%9C.pdf)
 
+
+## 2023/12/14
+- [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/forum?id=ceATjGPTUD), ICLR 2024 (8, 10, 6, 8), [PPT](ppt/Large%20Language%20Models%20are%20Efficient%20Learners%20of%20Noise-Robust%20Speech%20Recognition.pdf)
+
+
 ## 2023/12/21
 - [FUNCTION VECTORS IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.15213), arXiv Oct 23 2023, [PPT](https://github.com/ICI-MT/Reading-List/blob/main/ppt/Function%20Vectors%20in%20Large%20Language%20Models.pptx).
 - [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf), EMNLP 2023 Best Paper, [PPT](https://github.com/ICI-MT/Reading-List/blob/main/ppt/paper_reading_1221_by_meizhizhong.pdf).
