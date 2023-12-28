@@ -27,3 +27,5 @@ A paper reading list maintained by ICI-MT, contains all papers and PPTs (if avai
 - [Graph-Guided Reasoning for Multi-Hop Question Answering](https://arxiv.org/pdf/2311.09762.pdf), [PPT](https://github.com/ICI-MT/Reading-List/blob/main/ppt/Graph-Guided%20Reasoning%20for%20Multi-Hop%20Question%20Answering.pdf).
 
 ## 2023/12/28
+- [Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788), EMNLP 2023, [PPT](ppt/Adapting%20Language%20Models%20to%20Compress%20Contexts.pdf)
+- 
